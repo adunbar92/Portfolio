@@ -342,6 +342,10 @@ h3 {
     margin-top: 48px;
 }
 
+#weather-result {
+ font-size: 1.25rem;
+}
+
 
 .personal-image-gallery img {
     max-width: 350px;
@@ -401,6 +405,10 @@ h2 {
 
 h3 { 
     font-size: 1.6rem; 
+}
+
+#weather-result {
+ font-size: 1.45rem;
 }
 
 p {
