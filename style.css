@@ -200,8 +200,8 @@ div.error-message {
     font-family: "inter", sans-serif;
     padding: 8px;
     text-align: center;
-    color: rgb(218, 8, 8);
-    font-weight: bold;
+    color: rgb(151, 6, 6);
+    font-weight: bolder;
 }
 
 .error-message:empty {
@@ -424,7 +424,7 @@ p {
 }
 
 .skills-list {
-    font-size: 1rem;
+    font-size: 1.2rem;
     column-gap: 80px;
     row-gap: 8px;
 }
