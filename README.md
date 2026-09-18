@@ -5,8 +5,10 @@ My pages showed 0 errors, 0 contrast errors, and 0 alerts upon first review.
 To increase accessibility I added:
 
 JavaScript form validation with labels and aria labels where appropriate.
-Increased the contrast of the hover text links and button. 
+Increased the contrast of the links and button while hovering. 
+Increased error message contrast.
 Added alt text to all images.
+
 
 WAVE Results: /assets/WAVE.jpeg 
 
