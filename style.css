@@ -200,8 +200,9 @@ div.error-message {
     font-family: "inter", sans-serif;
     padding: 8px;
     text-align: center;
-    color: rgb(151, 6, 6);
+    color: rgb(60, 2, 134);
     font-weight: bolder;
+
 }
 
 .error-message:empty {
