@@ -13,6 +13,7 @@ Added alt text to all images.
 WAVE Results: /assets/WAVE.jpeg 
 
 [WAVE Results](assets/WAVE.jpeg)
+
 [WAVE Contrast Results](assets/WAVEcontrast.jpeg)
 
 ## Gestalt Principles
