@@ -116,6 +116,7 @@ div.content {
 
 }
 
+
 main {
     background-color:rgba(0, 33, 39, 0.637);
     margin: 16px auto;
@@ -378,29 +379,33 @@ grid-template-columns: 1fr 1fr;
 }
 
 
-.navbutton, .submit{
+.navbutton {
+font-size: 1.2rem;
+}
+
+.submit{
 font-size: 1rem;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 2.2rem;
     
 }
 
 h2 {
-    font-size: 1.6rem;
+    font-size: 1.75rem;
     padding: 16px 8px;
     margin: 40px;
 ;
 }
 
 h3 { 
-    font-size: 1.45rem; 
+    font-size: 1.6rem; 
 }
 
 p {
 
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin: 16px;
 }
 
@@ -429,6 +434,28 @@ p {
 .personal-image-gallery img {
     max-width: 350px;
     margin: 32px 0;
+}
+
+fieldset legend {
+    font-size: 1.45rem ;
+}
+
+.contact-instructions {
+
+    font-size: 1.2rem;
+}
+
+label {
+    font-family: "inter", sans-serif;
+    font-size: 1.2rem;
+    margin: 4px 0 4px 0;
+    
+}
+
+
+input::placeholder, textarea::placeholder {
+    color:black;
+    font-size: 1rem;
 }
 
 }
